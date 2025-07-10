@@ -125,7 +125,7 @@ int main(){
 				tampilkanData(mhs, jumlah); 
 				break;
             case 2: 
-				cout << "Masukkan nama: "; 
+				cout << "Masukkan nama yang ingin dicari: "; 
 				cin >> cari;
 				cariNama(mhs, jumlah, cari); 
 				break;
